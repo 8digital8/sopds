@@ -1,5 +1,5 @@
 FROM fedora:27
-MAINTAINER zveronline@zveronline.ru
+MAINTAINER 8digital8
 
 ENV DB_USER=sopds \
     DB_NAME=sopds \
