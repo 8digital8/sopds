@@ -1,4 +1,4 @@
-FROM fedora:26
+FROM fedora:27
 MAINTAINER zveronline@zveronline.ru
 
 ENV DB_USER=sopds \
